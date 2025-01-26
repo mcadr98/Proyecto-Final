@@ -1,0 +1,4 @@
+Relaciones:
+Un usuario puede hacer varias calificaciones y comentarios en diferentes películas/series.
+Un moderador puede agregar nuevas películas/series.
+Cada película/serie tiene muchas calificaciones y comentarios.
