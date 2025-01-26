@@ -1,0 +1,22 @@
+Usuarios:
+
+id: Integer, primary key
+nombre: String
+email: String, único
+contraseña: String (almacenada de forma segura, como un hash)
+rol: String (puede ser 'moderador' o 'usuario')
+Películas/Series:
+
+id: Integer, primary key
+titulo: String
+descripcion: String
+fecha_lanzamiento: Date
+genero: String
+poster_url: String (URL de la imagen del póster)
+Calificaciones:
+
+id: Integer, primary key
+usuario_id: Integer, foreign key (referencia a Usuarios)
+pelicula_id: Integer, foreign key (referencia a Películas/Series)
+calificacion: Integer (valor de 1 a 10)
+comentario: String
