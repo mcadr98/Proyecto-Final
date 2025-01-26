@@ -1,0 +1,18 @@
+Prototipo:
+Página principal (Landing Page):
+
+Título: “PopcornHour - Recomendaciones y Discusiones de Películas y Series”
+Sección de películas y series recomendadas.
+Barra de búsqueda para buscar películas/series.
+Enlace de acceso para usuarios logueados (Moderador/Estándar).
+Página de inicio de sesión:
+
+Formulario para iniciar sesión (con campos para nombre de usuario y contraseña).
+Enlace para ir a la página de registro.
+Página de registro:
+
+Formulario para crear una nueva cuenta con nombre de usuario, correo electrónico y contraseña.
+Página de perfil del usuario:
+
+Muestra las películas/series que ha recomendado o comentado.
+Sección para editar la cuenta.
