@@ -1,0 +1,6 @@
+# PopcornHour
+Un portal web para recomendar, calificar y discutir sobre películas y series.
+
+## Funcionalidades
+- Los usuarios pueden recomendar, calificar y comentar sobre películas y series.
+- Existen dos tipos de usuarios: moderadores (que pueden añadir nuevas películas/series) y usuarios estándar (que pueden calificar, comentar y discutir).
