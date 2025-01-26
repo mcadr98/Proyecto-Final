@@ -1,0 +1,17 @@
+PopcornHour/
+│
+├── app.py
+├── models.py
+├── routes.py
+├── config.py
+│
+├── templates/
+│   ├── index.html
+│   ├── login.html
+│   ├── signup.html
+│   ├── profile.html
+│
+└── static/
+    ├── css/
+    ├── js/
+    └── images/
