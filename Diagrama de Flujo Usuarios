@@ -1,0 +1,22 @@
+Registrar Usuario:
+
+El usuario visita la página de registro.
+Ingresa su nombre, email y contraseña.
+Se le asigna un rol de usuario estándar por defecto.
+El sistema valida los datos y registra al usuario.
+Iniciar Sesión:
+
+El usuario ingresa su email y contraseña.
+Si es correcto, se le da acceso a la plataforma.
+El sistema mantiene su sesión activa hasta que cierre sesión.
+Añadir Película/Serie (solo para moderadores):
+
+El moderador accede a la interfaz de administración.
+Agrega una nueva película/serie con título, descripción, fecha de lanzamiento, etc.
+El sistema guarda la nueva película/serie en la base de datos.
+Calificar y Comentar Película/Serie:
+
+El usuario selecciona una película/serie.
+El sistema muestra información y calificación promedio.
+El usuario puede dejar un comentario y calificación.
+El sistema guarda la calificación y comentario asociados al usuario y la película.
